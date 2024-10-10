@@ -1,0 +1,13 @@
+.form-container{
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+}
+.form-container > div {
+    display: flex;
+}
+.radio-container{
+    text-align: center;
+    margin-bottom: 15px;
+}

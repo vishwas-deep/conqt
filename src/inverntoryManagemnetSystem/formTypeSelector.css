@@ -1,0 +1,7 @@
+.formTypeSelector{
+   
+}
+.formTypeSelector--navBar{
+    display: flex;
+    justify-content: space-between;
+}
